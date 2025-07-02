@@ -1,0 +1,8 @@
+2025 07 02 
+
+fold: 0 val_all_acc: 0.8219
+fold: 1 val_all_acc: 0.8271
+fold: 2 val_all_acc: 0.8139
+fold: 3 val_all_acc: 0.8126
+fold: 4 val_all_acc: 0.8258
+
